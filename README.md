@@ -38,7 +38,7 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    
  <img align="right" width="80" height="80" alt="git" src="https://user-images.githubusercontent.com/127988699/227727965-fc0d89c3-18d9-4cd2-8190-9589f3404e1c.png">   
  
-   En esta sección, se irán publicando los diversos trabajos y tareas desarrolladas a lo largo del semestre, las cuales serán en base a lo aprendido en las actividades realizadas durante las ayudantías del curso IBM2026.
+   En esta sección, se irán publicando los diversos trabajos y tareas desarrolladas a lo largo del semestre (2023-1), las cuales serán en base a lo aprendido en las clases y los laboratorios del curso.
    
    
    
