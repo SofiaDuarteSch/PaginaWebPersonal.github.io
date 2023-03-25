@@ -28,13 +28,13 @@ Página web personal de Sofía Duarte, estudiante del curso IBM2026: Prototyping
   Pierre Padilla (Ayudante)
     
     
- <img align="right" width="100" height="100" alt="git" src="https://user-images.githubusercontent.com/127988699/227727965-fc0d89c3-18d9-4cd2-8190-9589f3404e1c.png">    
-  ## Ayudantías:
-   En esta sección se publicarán los trabajos y tareas desarrolladas a lo largo del semestre, los cuales serán en base a lo aprendido en las actividades realizadas durante las ayudantías del curso IBM2026.
+ <img align="right" width="100" height="100" alt="git" src="https://user-images.githubusercontent.com/127988699/227727965-fc0d89c3-18d9-4cd2-8190-9589f3404e1c.png">   
+ ## Ayudantías:
+   En esta sección, se irán publicando los diversos trabajos y tareas desarrolladas a lo largo del semestre, los cuales serán en base a lo aprendido en las actividades realizadas durante las ayudantías del curso IBM2026.
    - Tarea 1: 3D Printing
    - Tarea 2: CAD Design
    - Tarea 3: DNA Fabrication
-   - Tarea 4: 
+   - Tarea 4: C
    - Tarea 5:
     
   
