@@ -21,6 +21,8 @@ Página web personal de Sofía Duarte, estudiante del curso IBM2026: Prototyping
 
 ## Acerca del ramo:
 
+IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad Católica de Chile, de carácter optativo y nivel pregrado. Este, busca permitir que los estudiantes puedan desarrollar habilidades prácticas para la creación de prototipos mediante el uso de softwares y de la biología.
+
    Tobias Wenzel (Profesor)
    
    Fernan Federici (Profesor)
