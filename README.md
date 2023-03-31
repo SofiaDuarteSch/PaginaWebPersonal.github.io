@@ -44,7 +44,7 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    
    * **Tarea 1: 3D Printing**
   
-   Esta tarea, realizada el Jueves 23 de Marzo de 2023, consistió en la fabricación e impresión de un modelo 3D. Para esto, primero se buscó un objeto de interés en el repositorio del sitio [Thingiverse](https://www.thingiverse.com/), siendo en mi caso, un llavero con aspecto de moneda. Posteriormente, se descargó el archivo STL, para así, utilizando el software "PrusaSlicer", generar el laminado y determinar ciertos parámetros. Dentro de lo anterior, se seleccionó el filamento utilizado (Prusament PLA), el relleno (50%) y el tamaño (125 mm de ancho, 105 mm de alto, 1.25 mm de espesor). Por último, se descargó el archivo GCODE, se configuró la impresora a utilizar, y luego de 20 minutos, la impresión estaba lista.
+   Esta tarea, realizada el Jueves 23 de Marzo de 2023, consistió en la fabricación e impresión de un modelo 3D. Para esto, primero se buscó un objeto de interés en el repositorio del sitio [Thingiverse](https://www.thingiverse.com/), siendo en mi caso, un llavero con aspecto de moneda. Posteriormente, se descargó el archivo STL, para así, utilizando el software "PrusaSlicer", generar el laminado y determinar ciertos parámetros. Dentro de lo anterior, se seleccionó el filamento utilizado (Prusament PLA), el relleno (50%) y el tamaño (125 mm de ancho, 105 mm de alto, 1.25 mm de espesor). Por último, se descargó el archivo GCODE, se configuró la impresora a utilizar, y luego de 20 minutos la impresión estaba lista.
    
    
    * **Tarea 2: CAD Design**
