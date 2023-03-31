@@ -42,15 +42,17 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    
    
    
-   - Tarea 1: 3D Printing
-   
+   * **Tarea 1: 3D Printing**
+  
    Esta tarea, realizada el Jueves 23 de Marzo de 2023, consistió en la fabricación e impresión de un modelo 3D. Para esto, primero se buscó un objeto de interés en el repositorio del sitio [Thingiverse](https://www.thingiverse.com/)
    
    
-   - Tarea 2: CAD Design
-   - Tarea 3: DNA Fabrication
-   - Tarea 4: 
-   - Tarea 5:
+   * **Tarea 2: CAD Design**
+
+ 
+   * **Tarea 3: DNA Fabrication**
+   * **Tarea 4:**
+   * **Tarea 5:**
     
     
   
