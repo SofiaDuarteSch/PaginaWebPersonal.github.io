@@ -50,7 +50,9 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
 
    
    * **Tarea 2: CAD Design**
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/231550464-a7d3153a-1362-465f-b096-a49e33c7a17e.png">
 
+   Esta tarea, realizada el Jueves 30 de Marzo de 2023, consistió en la creación y modelación de un modelo 3D. En este caso, el objetivo era diseñar una taza utilizando un software CAD ("OnShape") , que cumpliera con ciertos criterios necesarios para una correcta impresión.
  
    * **Tarea 3: DNA Fabrication**
    * **Tarea 4:**
