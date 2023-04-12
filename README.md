@@ -58,7 +58,7 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    * **Tarea 3: DNA Fabrication**
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/231551480-57cb9097-643a-40e3-873e-d156b15b97bc.png">
 
-   Esta tarea, realizada el Miércoles 5 de Abril del 2023, al igual que en la anterior, el objetivo consistía en diseñar una taza, pero esta vez utilizando el software "OpenSCAD". De esta manera, se logró aprender ciertos comandos básicos del programa, y se pueden contemplar diferencias y similitudes entre ambos softwares de diseño CAD.  
+   Esta tarea, realizada el Miércoles 5 de Abril del 2023, tenía el mismo objetivo de la tarea anterior (diseñar una taza), pero esta vez utilizando el software "OpenSCAD". De esta manera, se logró aprender ciertos comandos básicos del programa, y se pueden contemplar diferencias y similitudes entre ambos softwares de diseño CAD.  
 
 
    * **Tarea 4:**
