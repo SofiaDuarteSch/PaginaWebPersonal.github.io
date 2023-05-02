@@ -44,7 +44,7 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    
    * **Tarea 1: 3D Printing**
    
-   <img align="right" width="150" height="150" alt="moneda" src="https://user-images.githubusercontent.com/127988699/229003032-9269a31e-3733-4333-962b-da2bdb5d70cc.png">
+   <img align="right" width="120" height="120" alt="moneda" src="https://user-images.githubusercontent.com/127988699/229003032-9269a31e-3733-4333-962b-da2bdb5d70cc.png">
   
    Esta tarea, realizada el Jueves 23 de Marzo de 2023, consistió en la fabricación e impresión de un modelo 3D. Para esto, primero se buscó un objeto de interés en el repositorio del sitio [Thingiverse](https://www.thingiverse.com/), siendo en mi caso, un llavero con aspecto de moneda. Posteriormente se descargó el archivo STL, para así, utilizando el software "PrusaSlicer", generar el laminado y determinar ciertos parámetros. Dentro de lo anterior, se seleccionó el filamento utilizado (Prusament PLA), el relleno (50%) y el tamaño (125 mm de ancho, 105 mm de alto, 1.25 mm de espesor). Por último, se descargó el archivo GCODE, se configuró la impresora a utilizar, y luego de 20 minutos la impresión estaba lista.
 
@@ -55,14 +55,18 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    Esta tarea, realizada el Jueves 30 de Marzo de 2023, consistió en la creación y modelación de un modelo 3D. En este caso, el objetivo era diseñar una taza utilizando un software CAD ("OnShape") , que cumpliera con ciertos criterios necesarios para una correcta impresión.
    
  
-   * **Tarea 3: DNA Fabrication**
+   * **Tarea 3: OpenSCAD**
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/231551480-57cb9097-643a-40e3-873e-d156b15b97bc.png">
 
    Esta tarea, realizada el Miércoles 5 de Abril del 2023, tenía el mismo objetivo de la tarea anterior (diseñar una taza), pero esta vez utilizando el software "OpenSCAD". De esta manera, se logró aprender ciertos comandos básicos del programa, y se pueden contemplar diferencias y similitudes entre ambos softwares de diseño CAD.  
 
 
-   * **Tarea 4:**
-   * **Tarea 5:**
+   * **Tarea 4: DNA Fabrication**
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/235760473-1409d53e-270e-4fcc-a84c-7e364a928d45.jpg">
+  Esta tarea, realizada el Jueves 13 de Abril del 2023, buscaba la fabricación de ADN, utilizando en el laboratorio los diversos componentes necesarios para el  ensamblaje. Además, se pudo verificar el correcto desarrollo experimental al observar la presencia de colonias, gracias a que estas presentaban una proteína que expresa fluorescencia, tal como se puede contemplar en la imágen.
+   
+   * **Tarea 5: **
+ <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/231551480-57cb9097-643a-40e3-873e-d156b15b97bc.png">
     
     
   
