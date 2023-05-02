@@ -65,11 +65,12 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/235760473-1409d53e-270e-4fcc-a84c-7e364a928d45.jpg">
   Esta tarea, realizada el Jueves 13 de Abril del 2023, buscaba la fabricación de ADN, utilizando en el laboratorio los diversos componentes necesarios para el  ensamblaje. Además, se pudo verificar el correcto desarrollo experimental al observar la presencia de colonias, gracias a que estas presentaban una proteína que expresa fluorescencia, tal como se puede contemplar en la imágen.
    
-   * **Tarea 5: **
- <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/231551480-57cb9097-643a-40e3-873e-d156b15b97bc.png">
-    
-    
-  
+   * **Tarea 5: ReClone**
+
+
+   * **Tarea 6: Cell Free** 
+    <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/235761233-46cf7fec-84b4-4ae6-b9fb-6f81923f3f26.jpg">
+
   ## Proyecto Final:
 <img align="left" width="200" height="200" alt="git" src="https://user-images.githubusercontent.com/127988699/227217433-c9928e79-1ad1-4b00-ab78-efc2038d89be.png"> 
 
