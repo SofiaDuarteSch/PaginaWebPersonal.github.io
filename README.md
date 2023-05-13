@@ -68,12 +68,15 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    * **Tarea 5: ReClone**
 
 
+
    * **Tarea 6: Cell Free** 
     <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/235761233-46cf7fec-84b4-4ae6-b9fb-6f81923f3f26.jpg">
     
-    
+  
    * **Tarea 7: Molding** 
-
+     <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/235761233-46cf7fec-84b4-4ae6-b9fb-6f81923f3f26.jpg">
+    
+  
   ## Proyecto Final:
 <img align="left" width="200" height="200" alt="git" src="https://user-images.githubusercontent.com/127988699/227217433-c9928e79-1ad1-4b00-ab78-efc2038d89be.png"> 
 
