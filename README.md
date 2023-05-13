@@ -72,6 +72,8 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    * **Tarea 6: Cell Free** 
     <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/235761233-46cf7fec-84b4-4ae6-b9fb-6f81923f3f26.jpg">
     
+    Esta tarea, realizada el Jueves 27 de Abril del 2023, tenía como objetivo realizar un procedimiento Cell Free, para así poder contemplar su uso en el análisis de reacciones biológicas, sin la necesidad de utilizar las células completas, y evitando así, posibles complicaciones. En este caso, se buscó detectar la presencia de un gen codificante para COVID-19, verificando la presencia de una determinada proteína- Para lo anterior, se añadieron los componentes necesarios a tubos Eppendorf, y luego de centrifugación y un posterior periodo de espera, se logró comprobar el desarrollo experimental dependiendo de la fluorescencia resultante en cada tubo.
+  
   
    * **Tarea 7: Molding** 
      <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/127988699/235761233-46cf7fec-84b4-4ae6-b9fb-6f81923f3f26.jpg">
