@@ -80,7 +80,10 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
 <img align="right" width="100" height="100" src="https://github.com/SofiaDuarteSch/PaginaWebPersonal.github.io/assets/127988699/36c3da12-3827-4af8-8e00-6c50e03de986">
     
    Esta tarea, realizada el Jueves 11 de Mayo del 2023, consistió en la realización de un molde, utilizando silicona y resina epóxica. Para esto, se debía seleccionar un objeto como base del molde, el cual debía ser plano y de origen animal. Posteriormente, se cubrió con silicona y se usó la resina, finalizando el procedimiento experimental. En la imágen, se puede contemplar el resultado visto a través de un microscopio, obtenido al utilizar un trozo de cuero. 
-
+   
+   * **Tarea 8: Assemble syringe pums**
+   
+  Esta tarea, realizada el Jueves 18 de Mayo del 2023, tuvo como objetivo el ensamblaje de un instrumento electrónico, para así tener una introducción al uso de Hardware, microcontroladores, actuadores y sensores. En este caso específico, se tuvo como producto final una bomba de jeringa, la cual se logró siguiendo una serie de pasos señalados en el siguiente documento http://www.mass-spec.ru/projects/diy/syringe_pump/eng/
 
 
   ## Proyecto Final:
