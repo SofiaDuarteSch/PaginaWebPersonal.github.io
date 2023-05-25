@@ -83,7 +83,7 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    
    * **Tarea 8: Assemble syringe pums**
    
-  Esta tarea, realizada el Jueves 18 de Mayo del 2023, tuvo como objetivo el ensamblaje de un instrumento electrónico, para así tener una introducción al uso de Hardware, microcontroladores, actuadores y sensores. En este caso específico, se tuvo como producto final una bomba de jeringa, la cual se logró siguiendo una serie de pasos señalados en el siguiente documento http://www.mass-spec.ru/projects/diy/syringe_pump/eng/
+  Esta tarea, realizada el Jueves 18 de Mayo del 2023, tuvo como objetivo el ensamblaje de un instrumento electrónico, para así tener una introducción al uso de Hardware, microcontroladores, actuadores y sensores. En este caso específico, se tuvo como producto final una bomba de jeringa, la cual se logró siguiendo una serie de pasos señalados en el siguiente [documento](http://www.mass-spec.ru/projects/diy/syringe_pump/eng/).
 
 
   ## Proyecto Final:
