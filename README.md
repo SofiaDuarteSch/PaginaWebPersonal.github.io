@@ -85,6 +85,9 @@ IBM2026: Prototyping for Bioengineers, es un ramo de la Pontificia Universidad C
    
   Esta tarea, realizada el Jueves 18 de Mayo del 2023, tuvo como objetivo el ensamblaje de un instrumento electrónico, para así tener una introducción al uso de Hardware, microcontroladores, actuadores y sensores. En este caso específico, se tuvo como producto final una bomba de jeringa, la cual se logró siguiendo una serie de pasos señalados en el siguiente [documento](http://www.mass-spec.ru/projects/diy/syringe_pump/eng/).
 
+  * **Tarea 9: Programming**
+
+  Esta tarea, realizada el Jueves 25 de Mayo del 2023, fue acerca de programar en Arduino, para así, luego poder configurar y modificar el código correspondiente a la "syring pump" construída en la experiencia de laboratorio anterior.
 
   ## Proyecto Final:
 <img align="left" width="200" height="200" alt="git" src="https://user-images.githubusercontent.com/127988699/227217433-c9928e79-1ad1-4b00-ab78-efc2038d89be.png"> 
